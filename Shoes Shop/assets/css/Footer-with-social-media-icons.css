@@ -1,0 +1,7 @@
+#footerpad {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: var(--bs-gray-700);
+  color: #fff;
+}
+
